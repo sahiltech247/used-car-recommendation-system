@@ -251,6 +251,8 @@ The Streamlit application provides:
 
 The dataset used in this project is included for educational and analytical purposes. 
 Dataset ownership and licensing belong to the original data provider.
+source kaggle
+name: Indian Second-Hand Cars Dataset
 
 # Author
 
